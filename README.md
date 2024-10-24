@@ -12,7 +12,7 @@
 
 
 
-SysDeploy ist ein Bash-Skript zur automatisierten Installation, Konfiguration und Verwaltung eines Basissystems. Es unterstützt die Einrichtung von Apache, MySQL, PHP und verschiedenen Systemdiensten, um eine grundlegende Serverumgebung bereitzustellen.
+AutoSetup ist ein Bash-Skript zur automatisierten Installation, Konfiguration und Verwaltung eines Basissystems. Es unterstützt die Einrichtung von Apache, MySQL, PHP und verschiedenen Systemdiensten, um eine grundlegende Serverumgebung bereitzustellen.
 ![{85D12853-8F7E-4506-A838-C55B9467DFCE}](https://github.com/user-attachments/assets/a740494a-d648-4a40-a9bb-f327303041f6)
 
 ## Funktionen
